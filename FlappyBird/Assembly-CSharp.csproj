@@ -60,6 +60,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\GameController.cs" />
     <Compile Include="Assets\Scripts\Bird.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>/Users/liuwj/github/best_creation_fine_arts/unity/flappybird-unity/FlappyBird/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
